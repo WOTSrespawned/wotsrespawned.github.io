@@ -51,6 +51,7 @@ img {
     width: 774px;
     height: auto;
     padding: 0;
+    float: right;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
