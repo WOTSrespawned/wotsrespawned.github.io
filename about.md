@@ -1,10 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Synopsis
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+In early 2006, GMOD goes to war. From The Binklenuts & Inspired by RS Films comes "War of the servers: RESPAWNED" 
