@@ -45,6 +45,8 @@ img {
     margin: 0;
     float: left;
     text-align: left;
+    white-space: nowrap;
+  overflow: hidden;
 }
 
 #bar {
