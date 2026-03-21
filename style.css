@@ -67,8 +67,8 @@ img {
 
 #content {
     background-color: transparent;
-    background-image: url(images/transparentbg.png) repeat top-left;
-    background-repeat: repeat;
+        background-image: url(images/transparentbg.png);
+        background-repeat: repeat;
     padding: 10px;
     color: #A5B9C9;
     font-family: verdana, arial;
