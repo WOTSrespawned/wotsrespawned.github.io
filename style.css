@@ -39,14 +39,12 @@ img {
 }
 
 #nav {
-    width: 1024px;
+    width: 270px;
     height: auto;
-    padding-right: 30px;
+    padding-right: 120px;
     margin: 0;
     float: left;
     text-align: left;
-    white-space: nowrap;
-  overflow: hidden;
 }
 
 #bar {
