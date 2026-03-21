@@ -66,7 +66,7 @@ img {
 }
 
 #content {
-    background: url(images/transparentbg) repeat top left;
+    background-image: url(images/transparentbg.png) repeat top-left;
     padding: 10px;
     color: #A5B9C9;
     font-family: verdana, arial;
@@ -77,7 +77,7 @@ img {
 }
 
     #content h1 {
-        background: url(images/transparentbg) repeat top left;
+        background-image: url(images/transparentbg.png);
         border-bottom: 1px solid #666;
         color: #A5B9C9;
         font-family: georgia;
