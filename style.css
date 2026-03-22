@@ -41,9 +41,9 @@ img {
 #nav {
     width: 170px;
     height: auto;
-    padding-right: 1px;
+    padding-right: 30px;
     margin: 0;
-    float: right;
+    float: left;
     text-align: left;
 }
 
