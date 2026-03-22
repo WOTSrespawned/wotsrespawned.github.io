@@ -39,16 +39,16 @@ img {
 }
 
 #nav {
-    width: 170px;
+    width: 265px;
     height: auto;
-    padding-right: 35px;
+    padding-right: 1px;
     margin: 0;
     float: left;
     text-align: left;
 }
 
 #bar {
-    width: 800px;
+    width: 900px;
     height: auto;
     padding: 0;
     margin-left: auto;
@@ -57,7 +57,7 @@ img {
 }
 
 #strip {
-    width: 800px;
+    width: 900px;
     height: 238px;
     padding: 0;
     float: left;
