@@ -70,14 +70,14 @@ img {
     background-image: url(images/transparentbg.png);
     background-repeat: repeat;
     background-position: right top;
-    height: 340px;
+    height: 200px;
     padding: 10px;
     color: #A5B9C9;
     font-family: verdana, arial;
     margin-left: auto;
     margin-right: auto;
     font-size: 11px;
-    width: 560px;
+    width: 600px;
     text-align: left;
     float: right;
 }
