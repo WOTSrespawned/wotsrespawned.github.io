@@ -43,7 +43,7 @@ img {
     height: auto;
     padding-right: 1px;
     margin: 0;
-    float: left;
+    float: right;
     text-align: left;
 }
 
@@ -74,9 +74,9 @@ img {
     padding-left: 30px;
     color: #A5B9C9;
     font-family: verdana, arial;
-    float: left;
+    float: right;
     font-size: 11px;
-    width: 400px;
+    width: 500px;
     text-align: left;
 }
 
