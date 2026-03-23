@@ -5,7 +5,7 @@ body {
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
-    
+    background-image: url(images/mainbg.png);
 }
 
 img {
@@ -39,16 +39,16 @@ img {
 }
 
 #nav {
-    width: 170px;
+    width: 144px;
     height: auto;
-    padding-right: 30px;
+    padding-right: 10px;
     margin: 0;
     float: left;
     text-align: left;
 }
 
 #bar {
-    width: 900px;
+    width: 774px;
     height: auto;
     padding: 0;
     margin-left: auto;
@@ -57,8 +57,8 @@ img {
 }
 
 #strip {
-    width: 900px;
-    height: 238px;
+    width: 774px;
+    height: auto;
     padding: 0;
     float: left;
     z-index: 9;
